@@ -8,7 +8,7 @@ https://modin.readthedocs.io/en/latest/
 
 Is all you need now use pd(pandas) as you used to but now it will run on multiple cores automatically :D
 
-![Example](https://github.com/BahramKBaloch/acclerating-pandas-with-modin/blob/main/test.png)
+![Example](https://github.com/BahramKBaloch/accelerating-pandas-with-modin/blob/main/test.png)
 
 
 
